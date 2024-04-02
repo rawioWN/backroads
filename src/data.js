@@ -34,7 +34,7 @@ export const socialLinks = [
 export const services = [
   {
     id: 1,
-    title: "saving money",
+    title: "save money2",
     icon: "fas fa-wallet fa-fw",
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, officia.",
   },
