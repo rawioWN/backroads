@@ -1,10 +1,10 @@
 import React from "react";
 import aboutImg from "../images/about.jpeg";
-import Title from './Title'
+import Title from "./Title";
 const About = () => {
   return (
     <section className="section" id="about">
-      <Title title='About' subTitle='us'/>
+      <Title title="About" subTitle="us" />
 
       <div className="section-center about-center">
         <div className="about-img">
@@ -22,7 +22,7 @@ const About = () => {
             quisquam harum nam cumque temporibus explicabo dolorum sapiente odio
             unde dolor?
           </p>
-          <a href="#" className="btn">
+          <a href="#dfgdfg" className="btn">
             read more
           </a>
         </article>
